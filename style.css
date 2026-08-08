@@ -361,6 +361,7 @@ font-size: 14px;
 @media (max-width: 850px) {
   .header-inner { min-height: 70px; }
   /*.header-contacts { display: none; }*/
+  .phone { display: none; }
   .header-button { margin-left: auto; }
 
   .hero { padding: 58px 0 70px; }
